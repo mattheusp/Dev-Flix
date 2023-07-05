@@ -17,5 +17,8 @@ h1 {
 
 .cor-preta .nav-link {
     color: black;
-  }
+}
 
+.col-md-3 {
+    cursor: pointer;
+}
