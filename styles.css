@@ -22,3 +22,7 @@ h1 {
 .col-md-3 {
     cursor: pointer;
 }
+
+.carousel-slide {
+    width: 50%;
+}
